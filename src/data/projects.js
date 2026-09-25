@@ -249,7 +249,7 @@ export const projects = [
     category: "Islamic",
     technologies: ["HTML", "CSS", "JavaScript"],
     image: "/projects/noor-ayat.png",
-    liveUrl: "",
+    liveUrl: "noorayat.vercel.app",
     githubUrl: "",
     featured: false,
     status: "In Progress",
