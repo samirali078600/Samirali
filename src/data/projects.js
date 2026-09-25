@@ -236,7 +236,7 @@ export const projects = [
     category: "Islamic",
     technologies: ["HTML", "CSS", "JavaScript"],
     image: "/projects/quran-project.png",
-    liveUrl: "",
+    liveUrl: "alquran-alkareem1.vercel.app",
     githubUrl: "",
     featured: true,
     status: "In Progress",
